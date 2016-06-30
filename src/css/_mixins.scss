@@ -1,0 +1,4 @@
+@mixin base-type($size, $weight) {
+    font-size: $size;
+    font-weight: $weight;
+}
